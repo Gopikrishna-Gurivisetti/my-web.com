@@ -6,7 +6,8 @@
 .header{
     min-height: 100vh;
     width: 100%;
-    background-image: linear-gradient(rgba(2, 5, 30, 0.527),rgba(2, 5, 30, 0.5)) , url("C:/Users/GOPI KRISHNA/OneDrive/Desktop/website/eduford.png");
+    background-image: linear-gradient(rgba(2, 5, 30, 0.527),rgba(2, 5, 30, 0.5)),
+    url("https://www.dcu.ie/sites/default/files/styles/widescreen_television/public/media/2020/03/12/2269_057d_1.jpg?itok=lU10C9FB");
     background-position: center;
     background-attachment: fixed;
     background-size: cover;
@@ -293,7 +294,8 @@ h3{
         margin:50px auto;
         text-align: center;
         padding: 200px 0;
-        background-image: linear-gradient(rgba(2, 5, 30, 0.527),rgba(2, 5, 30, 0.5)),url("C:/Users/GOPI KRISHNA/OneDrive/Desktop/website/meeting.webp");
+        background-image: linear-gradient(rgba(2, 5, 30, 0.527),rgba(2, 5, 30, 0.5)),
+        url("https://innovativeprofessionaloffices.com/wp-content/uploads/2017/10/IPO-New-1024x683.jpg");
         background-position: center;
         background-size: cover;
         background-attachment: fixed;
